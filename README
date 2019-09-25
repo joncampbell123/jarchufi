@@ -5,3 +5,4 @@ It will not compile with the newer libusb library.
 
 Taken from archived tarball snapshot 2005/04/10.
 
+For more information about UFI class devices: https://usb.org/sites/default/files/usbmass-ufi10.pdf
