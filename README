@@ -1,0 +1,7 @@
+Experimental code (from 2005) that reads a USB floppy drive directly using libusb.
+
+This code was written against the ORIGINAL libusb library as it existed in 2005.
+It will not compile with the newer libusb library.
+
+Taken from archived tarball snapshot 2005/04/10.
+
